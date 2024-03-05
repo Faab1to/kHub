@@ -1,9 +1,0 @@
-name: Osmium
-author: Aplosh
-main: cc.invictusgames.hub.HubPlugin
-version: 1.2
-depend:
-  - ProtocolLib
-softdepend:
-  - iLib
-  - Invictus
